@@ -1,6 +1,7 @@
 {
   "name": "alcoholism",
   "version": "0.1.0",
+  "homepage": "https://github.com/virvum/alcoholism",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
